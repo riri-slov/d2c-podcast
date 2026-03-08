@@ -4,12 +4,18 @@
     <title>グローバルD2Cインサイト</title>
     <description>欧米・豪州・東南アジアのリテールニュースをD2C経営者視点で深掘り。なぜそれが起きたか、消費者心理は何か、日本への示唆は何かをケイコとリョウが毎朝お届けします。</description>
     <language>ja</language>
-    <link/>
+    <link>https://riri-slov.github.io/d2c-podcast</link>
     <itunes:author>Global D2C Insights</itunes:author>
     <itunes:summary>欧米・豪州・東南アジアのリテールニュースをD2C経営者視点で深掘り。なぜそれが起きたか、消費者心理は何か、日本への示唆は何かをケイコとリョウが毎朝お届けします。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:language>ja</itunes:language>
+    <itunes:owner>
+      <itunes:name>Global D2C Insights</itunes:name>
+      <itunes:email>rieomoto0109@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>rieomoto0109@gmail.com (Global D2C Insights)</managingEditor>
     <itunes:category text="Business"/>
+    <itunes:image href="https://riri-slov.github.io/d2c-podcast/artwork.jpg"/>
     <item>
       <title>雇用が崩れ、決算が沈む──消費冷え込み時代にD2Cが取るべき価格戦略の全体像</title>
       <description>米国で2月の雇用統計がまさかのマイナス、消費裁量セクターの決算は2020年以来最悪。消費の冷え込みが本格化するなか、Newell Brandsの値上げ術やStripeのAI従量課金から、日本のD2C経営者が今すぐ仕込むべき価格戦略を2人が徹底議論します。</description>
