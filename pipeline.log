@@ -1,0 +1,377 @@
+2026-03-08 13:47:42,997 [INFO] httpx: HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2026-03-08 13:51:12,281 [INFO] src.news_aggregator: Modern Retail: 1件取得
+2026-03-08 13:51:13,593 [INFO] src.news_aggregator: Retail Dive: 2件取得
+2026-03-08 13:51:14,290 [INFO] src.news_aggregator: Glossy: 0件取得
+2026-03-08 13:51:16,078 [WARNING] src.news_aggregator: フィード解析エラー Business of Fashion: <unknown>:34:1082: not well-formed (invalid token)
+2026-03-08 13:51:17,316 [WARNING] src.news_aggregator: フィード解析エラー TechCrunch E-Commerce: <unknown>:42:21: not well-formed (invalid token)
+2026-03-08 13:51:18,757 [INFO] src.news_aggregator: PYMNTS: 10件取得
+2026-03-08 13:51:19,262 [INFO] src.news_aggregator: [アメリカ] 10件を採用
+2026-03-08 13:51:19,762 [INFO] src.news_aggregator: Retail Gazette (UK): 2件取得
+2026-03-08 13:51:20,797 [WARNING] src.news_aggregator: フィード解析エラー Retail Technology Innovation Hub: <unknown>:2:0: syntax error
+2026-03-08 13:51:22,222 [WARNING] src.news_aggregator: フィード解析エラー FashionUnited: <unknown>:245:4: mismatched tag
+2026-03-08 13:51:23,052 [INFO] src.news_aggregator: Just Style: 0件取得
+2026-03-08 13:51:26,095 [INFO] src.news_aggregator: Ecommerce News EU: 0件取得
+2026-03-08 13:51:26,600 [INFO] src.news_aggregator: [欧州] 2件を採用
+2026-03-08 13:51:28,324 [INFO] src.news_aggregator: Inside Retail Australia: 0件取得
+2026-03-08 13:51:29,291 [INFO] src.news_aggregator: RetailBiz: 0件取得
+2026-03-08 13:51:29,796 [INFO] src.news_aggregator: [豪州] 0件を採用
+2026-03-08 13:51:30,464 [WARNING] src.news_aggregator: フィード解析エラー KrASIA: <unknown>:16:58: not well-formed (invalid token)
+2026-03-08 13:51:31,030 [WARNING] src.news_aggregator: フィード解析エラー e27: <unknown>:2:751: not well-formed (invalid token)
+2026-03-08 13:51:31,986 [WARNING] src.news_aggregator: フィード解析エラー Tech in Asia: text/html is not an XML media type
+2026-03-08 13:51:32,985 [WARNING] src.news_aggregator: フィード解析エラー Retail Asia: text/html; charset=UTF-8 is not an XML media type
+2026-03-08 13:51:33,487 [INFO] src.news_aggregator: [東南アジア] 0件を採用
+2026-03-08 13:51:50,278 [INFO] src.pipeline: ==================================================
+2026-03-08 13:51:50,278 [INFO] src.pipeline: STEP 1: ニュース収集
+2026-03-08 13:51:50,328 [INFO] src.news_aggregator: Modern Retail: 1件取得
+2026-03-08 13:51:51,481 [INFO] src.news_aggregator: Retail Dive: 2件取得
+2026-03-08 13:51:52,088 [INFO] src.news_aggregator: Glossy: 0件取得
+2026-03-08 13:51:52,793 [WARNING] src.news_aggregator: フィード解析エラー Business of Fashion: <unknown>:34:1082: not well-formed (invalid token)
+2026-03-08 13:51:53,420 [WARNING] src.news_aggregator: フィード解析エラー TechCrunch E-Commerce: <unknown>:42:21: not well-formed (invalid token)
+2026-03-08 13:51:54,696 [INFO] src.news_aggregator: PYMNTS: 10件取得
+2026-03-08 13:51:55,202 [INFO] src.news_aggregator: [アメリカ] 10件を採用
+2026-03-08 13:51:56,835 [INFO] src.news_aggregator: Retail Gazette (UK): 2件取得
+2026-03-08 13:51:57,846 [WARNING] src.news_aggregator: フィード解析エラー Retail Technology Innovation Hub: <unknown>:2:0: syntax error
+2026-03-08 13:51:58,455 [WARNING] src.news_aggregator: フィード解析エラー FashionUnited: <unknown>:245:4: mismatched tag
+2026-03-08 13:51:59,051 [INFO] src.news_aggregator: Just Style: 0件取得
+2026-03-08 13:52:02,145 [INFO] src.news_aggregator: Ecommerce News EU: 0件取得
+2026-03-08 13:52:02,650 [INFO] src.news_aggregator: [欧州] 2件を採用
+2026-03-08 13:52:05,479 [INFO] src.news_aggregator: Inside Retail Australia: 0件取得
+2026-03-08 13:52:06,080 [INFO] src.news_aggregator: RetailBiz: 0件取得
+2026-03-08 13:52:06,582 [INFO] src.news_aggregator: [豪州] 0件を採用
+2026-03-08 13:52:07,191 [WARNING] src.news_aggregator: フィード解析エラー KrASIA: <unknown>:16:58: not well-formed (invalid token)
+2026-03-08 13:52:07,757 [WARNING] src.news_aggregator: フィード解析エラー e27: <unknown>:2:751: not well-formed (invalid token)
+2026-03-08 13:52:08,606 [WARNING] src.news_aggregator: フィード解析エラー Tech in Asia: text/html is not an XML media type
+2026-03-08 13:52:57,111 [WARNING] src.news_aggregator: フィード解析エラー Retail Asia: text/html; charset=UTF-8 is not an XML media type
+2026-03-08 13:52:57,616 [INFO] src.news_aggregator: [東南アジア] 0件を採用
+2026-03-08 13:52:57,617 [INFO] src.pipeline: 収集完了: 合計12件
+2026-03-08 13:52:57,617 [INFO] src.pipeline: ==================================================
+2026-03-08 13:52:57,617 [INFO] src.pipeline: STEP 2: コンテンツキュレーション
+2026-03-08 13:52:57,653 [INFO] src.content_curator: Claude APIでキュレーション開始 (12件 → 4件)
+2026-03-08 13:53:10,617 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-08 13:53:10,648 [INFO] src.content_curator: キュレーション完了: 4件選定、テーマ「消費冷え込み時代の値付けと武装」
+2026-03-08 13:53:10,648 [INFO] src.pipeline: ==================================================
+2026-03-08 13:53:10,648 [INFO] src.pipeline: STEP 3: スクリプト生成
+2026-03-08 13:53:10,648 [ERROR] src.pipeline: パイプラインエラー: '\n  "episode_title"'
+Traceback (most recent call last):
+  File "/Users/rie.omoto/podcast/src/pipeline.py", line 99, in run_pipeline
+    script = generate_script(
+  File "/Users/rie.omoto/podcast/src/script_generator.py", line 84, in generate_script
+    prompt = prompt_template.format(
+KeyError: '\n  "episode_title"'
+2026-03-08 13:54:50,019 [INFO] src.pipeline: ==================================================
+2026-03-08 13:54:50,019 [INFO] src.pipeline: STEP 1: ニュース収集
+2026-03-08 13:54:50,076 [INFO] src.news_aggregator: Modern Retail: 1件取得
+2026-03-08 13:54:51,024 [INFO] src.news_aggregator: Retail Dive: 2件取得
+2026-03-08 13:54:51,613 [INFO] src.news_aggregator: Glossy: 0件取得
+2026-03-08 13:54:53,203 [WARNING] src.news_aggregator: フィード解析エラー Business of Fashion: <unknown>:34:1082: not well-formed (invalid token)
+2026-03-08 13:54:54,638 [WARNING] src.news_aggregator: フィード解析エラー TechCrunch E-Commerce: <unknown>:42:21: not well-formed (invalid token)
+2026-03-08 13:54:55,878 [INFO] src.news_aggregator: PYMNTS: 10件取得
+2026-03-08 13:54:56,383 [INFO] src.news_aggregator: [アメリカ] 10件を採用
+2026-03-08 13:54:58,693 [INFO] src.news_aggregator: Retail Gazette (UK): 2件取得
+2026-03-08 13:54:59,710 [WARNING] src.news_aggregator: フィード解析エラー Retail Technology Innovation Hub: <unknown>:2:0: syntax error
+2026-03-08 13:55:00,364 [WARNING] src.news_aggregator: フィード解析エラー FashionUnited: <unknown>:245:4: mismatched tag
+2026-03-08 13:55:00,941 [INFO] src.news_aggregator: Just Style: 0件取得
+2026-03-08 13:55:04,370 [INFO] src.news_aggregator: Ecommerce News EU: 0件取得
+2026-03-08 13:55:04,875 [INFO] src.news_aggregator: [欧州] 2件を採用
+2026-03-08 13:55:06,622 [INFO] src.news_aggregator: Inside Retail Australia: 0件取得
+2026-03-08 13:55:07,211 [INFO] src.news_aggregator: RetailBiz: 0件取得
+2026-03-08 13:55:07,716 [INFO] src.news_aggregator: [豪州] 0件を採用
+2026-03-08 13:55:08,313 [WARNING] src.news_aggregator: フィード解析エラー KrASIA: <unknown>:16:58: not well-formed (invalid token)
+2026-03-08 13:55:08,878 [WARNING] src.news_aggregator: フィード解析エラー e27: <unknown>:2:751: not well-formed (invalid token)
+2026-03-08 13:55:09,843 [WARNING] src.news_aggregator: フィード解析エラー Tech in Asia: text/html is not an XML media type
+2026-03-08 13:55:10,721 [WARNING] src.news_aggregator: フィード解析エラー Retail Asia: text/html; charset=UTF-8 is not an XML media type
+2026-03-08 13:55:11,226 [INFO] src.news_aggregator: [東南アジア] 0件を採用
+2026-03-08 13:55:11,227 [INFO] src.pipeline: 収集完了: 合計12件
+2026-03-08 13:55:11,227 [INFO] src.pipeline: ==================================================
+2026-03-08 13:55:11,227 [INFO] src.pipeline: STEP 2: コンテンツキュレーション
+2026-03-08 13:55:11,269 [INFO] src.content_curator: Claude APIでキュレーション開始 (12件 → 4件)
+2026-03-08 13:55:26,394 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-08 13:55:26,423 [INFO] src.content_curator: キュレーション完了: 4件選定、テーマ「不況シグナルとD2C価格戦略」
+2026-03-08 13:55:26,424 [INFO] src.pipeline: ==================================================
+2026-03-08 13:55:26,424 [INFO] src.pipeline: STEP 3: スクリプト生成
+2026-03-08 13:55:26,424 [INFO] src.script_generator: Claude APIでスクリプト生成開始 (テーマ: 不況シグナルとD2C価格戦略、4本)
+2026-03-08 13:57:15,210 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-08 13:57:15,214 [INFO] src.script_generator: スクリプト生成完了: 「雇用が崩れ、決算が沈み、それでも値上げを通す方法──不況シグナルとD2C価格戦略」 / 60ターン / 推定16分
+2026-03-08 13:57:15,216 [INFO] src.script_generator: スクリプト保存: episodes/2026-03-08_script.json
+2026-03-08 13:57:15,216 [INFO] src.pipeline: スクリプト保存: episodes/2026-03-08_script.json
+2026-03-08 13:57:15,216 [INFO] src.pipeline: 音声生成をスキップ（--skip-audio フラグ）
+2026-03-08 13:58:46,950 [INFO] src.pipeline: ==================================================
+2026-03-08 13:58:46,951 [INFO] src.pipeline: STEP 1: ニュース収集
+2026-03-08 13:58:47,007 [INFO] src.news_aggregator: Modern Retail: 1件取得
+2026-03-08 13:58:48,365 [INFO] src.news_aggregator: Retail Dive: 2件取得
+2026-03-08 13:58:50,093 [INFO] src.news_aggregator: Glossy: 0件取得
+2026-03-08 13:58:51,467 [WARNING] src.news_aggregator: フィード解析エラー Business of Fashion: <unknown>:34:1082: not well-formed (invalid token)
+2026-03-08 13:58:53,078 [WARNING] src.news_aggregator: フィード解析エラー TechCrunch E-Commerce: <unknown>:42:21: not well-formed (invalid token)
+2026-03-08 13:58:54,363 [INFO] src.news_aggregator: PYMNTS: 10件取得
+2026-03-08 13:58:54,868 [INFO] src.news_aggregator: [アメリカ] 10件を採用
+2026-03-08 13:58:55,357 [INFO] src.news_aggregator: Retail Gazette (UK): 2件取得
+2026-03-08 13:58:56,370 [WARNING] src.news_aggregator: フィード解析エラー Retail Technology Innovation Hub: <unknown>:2:0: syntax error
+2026-03-08 13:58:57,169 [WARNING] src.news_aggregator: フィード解析エラー FashionUnited: <unknown>:245:4: mismatched tag
+2026-03-08 13:58:57,869 [INFO] src.news_aggregator: Just Style: 0件取得
+2026-03-08 13:59:00,853 [INFO] src.news_aggregator: Ecommerce News EU: 0件取得
+2026-03-08 13:59:01,355 [INFO] src.news_aggregator: [欧州] 2件を採用
+2026-03-08 13:59:03,192 [INFO] src.news_aggregator: Inside Retail Australia: 0件取得
+2026-03-08 13:59:03,788 [INFO] src.news_aggregator: RetailBiz: 0件取得
+2026-03-08 13:59:04,293 [INFO] src.news_aggregator: [豪州] 0件を採用
+2026-03-08 13:59:04,970 [WARNING] src.news_aggregator: フィード解析エラー KrASIA: <unknown>:16:58: not well-formed (invalid token)
+2026-03-08 13:59:05,553 [WARNING] src.news_aggregator: フィード解析エラー e27: <unknown>:2:751: not well-formed (invalid token)
+2026-03-08 13:59:06,531 [WARNING] src.news_aggregator: フィード解析エラー Tech in Asia: text/html is not an XML media type
+2026-03-08 13:59:07,596 [WARNING] src.news_aggregator: フィード解析エラー Retail Asia: text/html; charset=UTF-8 is not an XML media type
+2026-03-08 13:59:08,097 [INFO] src.news_aggregator: [東南アジア] 0件を採用
+2026-03-08 13:59:08,098 [INFO] src.pipeline: 収集完了: 合計12件
+2026-03-08 13:59:08,098 [INFO] src.pipeline: ==================================================
+2026-03-08 13:59:08,098 [INFO] src.pipeline: STEP 2: コンテンツキュレーション
+2026-03-08 13:59:08,138 [INFO] src.content_curator: Claude APIでキュレーション開始 (12件 → 4件)
+2026-03-08 13:59:21,622 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-08 13:59:21,660 [INFO] src.content_curator: キュレーション完了: 4件選定、テーマ「消費冷え込み時代の価格戦略」
+2026-03-08 13:59:21,660 [INFO] src.pipeline: ==================================================
+2026-03-08 13:59:21,660 [INFO] src.pipeline: STEP 3: スクリプト生成
+2026-03-08 13:59:21,661 [INFO] src.script_generator: Claude APIでスクリプト生成開始 (テーマ: 消費冷え込み時代の価格戦略、4本)
+2026-03-08 14:01:21,638 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-08 14:01:21,644 [INFO] src.script_generator: スクリプト生成完了: 「雇用が崩れ、決算が沈む──消費冷え込み時代にD2Cが取るべき価格戦略の全体像」 / 54ターン / 推定16分
+2026-03-08 14:01:21,646 [INFO] src.script_generator: スクリプト保存: episodes/2026-03-08_script.json
+2026-03-08 14:01:21,646 [INFO] src.pipeline: スクリプト保存: episodes/2026-03-08_script.json
+2026-03-08 14:01:21,646 [INFO] src.pipeline: ==================================================
+2026-03-08 14:01:21,646 [INFO] src.pipeline: STEP 4: 音声生成 (ElevenLabs)
+2026-03-08 14:01:21,654 [INFO] src.audio_generator: 音声生成開始: 54ターン
+2026-03-08 14:01:21,655 [INFO] src.audio_generator: [1/54] ryo: こんにちは、グローバルD2Cインサイトです。リョウです。今日...
+2026-03-08 14:01:26,300 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:01:28,892 [INFO] src.audio_generator: [2/54] keiko: ケイコです。いやほんと、今日は数字がエグいんですよ。まずこれ...
+2026-03-08 14:01:34,234 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:01:34,855 [INFO] src.audio_generator: [3/54] ryo: え、56%。それやばくないですか。全体平均と17ポイントも差...
+2026-03-08 14:01:37,100 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:01:37,689 [INFO] src.audio_generator: [4/54] keiko: はい、まず1本目。3月6日にアメリカの労働統計局が出した雇用...
+2026-03-08 14:01:41,143 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:01:41,741 [INFO] src.audio_generator: [5/54] ryo: マジで？増えると思ってたのに減ったってことですか。...
+2026-03-08 14:01:43,101 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:01:43,666 [INFO] src.audio_generator: [6/54] keiko: そうなんです。背景を説明すると、アメリカはここ数年、FRBの...
+2026-03-08 14:01:48,362 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:01:48,960 [INFO] src.audio_generator: [7/54] ryo: あー、なるほど。消費者の立場で考えると、これって「まだ大丈夫...
+2026-03-08 14:01:52,013 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:01:52,637 [INFO] src.audio_generator: [8/54] keiko: そうそう。しかもアメリカの消費って、雇用の実態よりも「コンフ...
+2026-03-08 14:01:55,652 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:01:56,251 [INFO] src.audio_generator: [9/54] ryo: それ、日本のD2C経営者的にはどう読むべきですかね。直接的に...
+2026-03-08 14:01:57,991 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:01:58,576 [INFO] src.audio_generator: [10/54] keiko: ここが重要で、アメリカの消費減速って、半年から1年遅れで日本...
+2026-03-08 14:02:03,615 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:04,233 [INFO] src.audio_generator: [11/54] ryo: 具体的にはどういうことですか？...
+2026-03-08 14:02:05,473 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:06,057 [INFO] src.audio_generator: [12/54] keiko: たとえば、新規獲得のCPAを今の水準で維持できる前提で予算を...
+2026-03-08 14:02:10,878 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:11,503 [INFO] src.audio_generator: [13/54] ryo: なるほど、攻めから守りへのシフトを先に始めておけと。これめち...
+2026-03-08 14:02:13,528 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:14,122 [INFO] src.audio_generator: [14/54] keiko: そう、2本目。同じ3月6日にPYMNTSが報じたんですけど、...
+2026-03-08 14:02:17,757 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:18,363 [INFO] src.audio_generator: [15/54] ryo: それ実際やばいですよね。しかも原因が「コスト高と需要の軟化」...
+2026-03-08 14:02:20,106 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:20,697 [INFO] src.audio_generator: [16/54] keiko: まさにそう。背景にはまだインフレのコスト圧力が残っている一方...
+2026-03-08 14:02:23,793 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:24,389 [INFO] src.audio_generator: [17/54] ryo: 消費者目線で言うと、これって「必需品は買うけど、ちょっといい...
+2026-03-08 14:02:27,274 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:27,889 [INFO] src.audio_generator: [18/54] keiko: 鋭い。データで言うと、過去の景気後退局面では消費者の価格感度...
+2026-03-08 14:02:30,911 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:31,501 [INFO] src.audio_generator: [19/54] ryo: え、でもなんで消費裁量だけここまでひどいんですか？テックとか...
+2026-03-08 14:02:33,124 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:33,715 [INFO] src.audio_generator: [20/54] keiko: いいポイントですね。テックはAI投資で新しい収益源が生まれて...
+2026-03-08 14:02:37,319 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:37,925 [INFO] src.audio_generator: [21/54] ryo: 日本のD2C経営者的には、自分のブランドが消費者にとって「必...
+2026-03-08 14:02:41,097 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:41,765 [INFO] src.audio_generator: [22/54] keiko: それと、価格帯別のSKU戦略も重要です。高単価の商品1本勝負...
+2026-03-08 14:02:45,161 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:45,761 [INFO] src.audio_generator: [23/54] ryo: なるほどなるほど。で、今まさに「じゃあ値上げってどうすればい...
+2026-03-08 14:02:47,634 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:48,238 [INFO] src.audio_generator: [24/54] keiko: そう、3本目。Modern Retailのポッドキャストで、...
+2026-03-08 14:02:51,180 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:51,760 [INFO] src.audio_generator: [25/54] ryo: Graco、アメリカだとベビーカーとかチャイルドシートで超有...
+2026-03-08 14:02:53,832 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:02:54,435 [INFO] src.audio_generator: [26/54] keiko: まさに。背景を説明すると、ベビーギアって安全性に直結するから...
+2026-03-08 14:02:58,099 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:02:58,711 [INFO] src.audio_generator: [27/54] ryo: 消費者の立場で考えると、赤ちゃん用品って「安いのは怖い、でも...
+2026-03-08 14:03:01,391 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:01,978 [INFO] src.audio_generator: [28/54] keiko: そうなんです。で、Gracoがやったのは、いきなり一律10%...
+2026-03-08 14:03:06,416 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:07,044 [INFO] src.audio_generator: [29/54] ryo: あー、それ実際うまいですよね。日本のD2Cだと、たとえばスキ...
+2026-03-08 14:03:10,693 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:11,593 [INFO] src.audio_generator: [30/54] keiko: そうそう。しかもバンドルだとLTVにも効くんですよ。最初から...
+2026-03-08 14:03:13,665 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:14,266 [INFO] src.audio_generator: [31/54] ryo: え、でもそれって、結局は値上げを「隠してる」だけじゃないです...
+2026-03-08 14:03:16,041 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:16,677 [INFO] src.audio_generator: [32/54] keiko: いいツッコミですね。だからこそ、透明性とのバランスが大事なん...
+2026-03-08 14:03:21,345 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:22,071 [INFO] src.audio_generator: [33/54] ryo: なるほど。日本のD2Cだと値上げの告知って「お詫び」みたいに...
+2026-03-08 14:03:26,451 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:27,064 [INFO] src.audio_generator: [34/54] keiko: まさにそう。で、ここからちょっと角度が変わるんですけど、値上...
+2026-03-08 14:03:29,088 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:29,683 [INFO] src.audio_generator: [35/54] ryo: おっ、4本目ですね。...
+2026-03-08 14:03:30,849 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:31,441 [INFO] src.audio_generator: [36/54] keiko: はい。Stripeが、AI利用量に応じた従量課金のビリングツ...
+2026-03-08 14:03:34,602 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:35,191 [INFO] src.audio_generator: [37/54] ryo: え、でもこれってD2Cに関係あるんですか？SaaSとかAI企...
+2026-03-08 14:03:36,842 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:37,458 [INFO] src.audio_generator: [38/54] keiko: 表面的にはそうなんですけど、ここで注目すべきは「課金モデルの...
+2026-03-08 14:03:40,617 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:41,271 [INFO] src.audio_generator: [39/54] ryo: あー、なるほど。D2Cの文脈で言うと、たとえばAIを使ったパ...
+2026-03-08 14:03:44,503 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:45,155 [INFO] src.audio_generator: [40/54] keiko: そういうことです。もっと広く言えば、D2Cの収益モデル自体が...
+2026-03-08 14:03:49,825 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:50,469 [INFO] src.audio_generator: [41/54] ryo: 消費者心理で言うと、これって今日のテーマにめちゃくちゃつなが...
+2026-03-08 14:03:53,831 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:03:54,439 [INFO] src.audio_generator: [42/54] keiko: そう、まさにそこ。景気後退局面で消費者が一番嫌うのって、「使...
+2026-03-08 14:03:57,698 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:03:58,306 [INFO] src.audio_generator: [43/54] ryo: え、でもD2Cで従量課金って実際にどうやるんですか？物販だと...
+2026-03-08 14:03:59,931 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:04:00,547 [INFO] src.audio_generator: [44/54] keiko: 純粋な物販だと確かに難しい。でも今のD2Cって、物販にサービ...
+2026-03-08 14:04:04,929 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:04:05,552 [INFO] src.audio_generator: [45/54] ryo: あー、それ面白いですね。日本だと、たとえば食品D2CでAI栄...
+2026-03-08 14:04:08,690 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:04:09,293 [INFO] src.audio_generator: [46/54] keiko: しかもStripeのインフラを使えば、エンジニアを大量に抱え...
+2026-03-08 14:04:11,314 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:04:11,915 [INFO] src.audio_generator: [47/54] ryo: さっきの話全部つながりますね。雇用が悪化して消費が冷える、消...
+2026-03-08 14:04:16,233 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:04:16,830 [INFO] src.audio_generator: [48/54] keiko: まとめると、今日の全体を通して言えることは、不況は「安くしろ...
+2026-03-08 14:04:21,690 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:04:22,295 [INFO] src.audio_generator: [49/54] ryo: で、日本のD2C経営者が今週やるべき一つのことですけど、僕は...
+2026-03-08 14:04:26,815 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:04:27,430 [INFO] src.audio_generator: [50/54] keiko: すごくいいアクションですね。そのマッピングがあれば、景気がさ...
+2026-03-08 14:04:29,373 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:04:29,999 [INFO] src.audio_generator: [51/54] ryo: ですね。嵐が来る前に地図を作っておけと。今日はかなり実践的な...
+2026-03-08 14:04:31,796 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:04:32,434 [INFO] src.audio_generator: [52/54] keiko: はい、消費の冷え込みは怖いけど、準備した人にとってはシェアを...
+2026-03-08 14:04:34,265 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:04:34,907 [INFO] src.audio_generator: [53/54] ryo: グローバルD2Cインサイト、お相手はリョウと...
+2026-03-08 14:04:36,180 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:04:36,809 [INFO] src.audio_generator: [54/54] keiko: ケイコでした。...
+2026-03-08 14:04:37,899 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/3JDquces8E8bkmvbh6Bc "HTTP/1.1 200 OK"
+2026-03-08 14:04:41,528 [INFO] src.audio_generator: 音声生成完了: episodes/2026-03-08.mp3 / 15.9分 / 14.6MB
+2026-03-08 14:04:41,529 [INFO] src.pipeline: ==================================================
+2026-03-08 14:04:41,529 [INFO] src.pipeline: STEP 5: 配信準備 (RSS生成)
+2026-03-08 14:04:41,529 [INFO] src.publisher: エピソード登録完了: 雇用が崩れ、決算が沈む──消費冷え込み時代にD2Cが取るべき価格戦略の全体像
+2026-03-08 14:04:41,535 [INFO] src.publisher: RSSフィード生成完了: episodes/feed.xml (1エピソード)
+2026-03-08 14:04:41,535 [INFO] src.pipeline: ==================================================
+2026-03-08 14:04:41,535 [INFO] src.pipeline: パイプライン完了: 「雇用が崩れ、決算が沈む──消費冷え込み時代にD2Cが取るべき価格戦略の全体像」
+2026-03-08 14:04:41,535 [INFO] src.pipeline:   音声: episodes/2026-03-08.mp3
+2026-03-08 14:04:41,535 [INFO] src.pipeline:   スクリプト: episodes/2026-03-08_script.json
+2026-03-08 14:05:47,609 [INFO] httpx: HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2026-03-08 14:07:09,181 [INFO] src.pipeline: 既存スクリプトをロード: episodes/2026-03-08_script.json
+2026-03-08 14:07:09,181 [INFO] src.script_generator: スクリプト保存: episodes/2026-03-08_script.json
+2026-03-08 14:07:09,182 [INFO] src.pipeline: スクリプト保存: episodes/2026-03-08_script.json
+2026-03-08 14:07:09,182 [INFO] src.pipeline: ==================================================
+2026-03-08 14:07:09,182 [INFO] src.pipeline: STEP 4: 音声生成 (ElevenLabs)
+2026-03-08 14:07:09,198 [INFO] src.audio_generator: 音声生成開始: 54ターン
+2026-03-08 14:07:09,198 [INFO] src.audio_generator: [1/54] ryo: こんにちは、グローバルD2Cインサイトです。リョウです。今日...
+2026-03-08 14:07:11,437 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:12,074 [INFO] src.audio_generator: [2/54] keiko: ケイコです。いやほんと、今日は数字がエグいんですよ。まずこれ...
+2026-03-08 14:07:16,539 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:07:17,158 [INFO] src.audio_generator: [3/54] ryo: え、56%。それやばくないですか。全体平均と17ポイントも差...
+2026-03-08 14:07:19,333 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:19,932 [INFO] src.audio_generator: [4/54] keiko: はい、まず1本目。3月6日にアメリカの労働統計局が出した雇用...
+2026-03-08 14:07:22,749 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:07:23,351 [INFO] src.audio_generator: [5/54] ryo: マジで？増えると思ってたのに減ったってことですか。...
+2026-03-08 14:07:24,749 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:25,328 [INFO] src.audio_generator: [6/54] keiko: そうなんです。背景を説明すると、アメリカはここ数年、FRBの...
+2026-03-08 14:07:29,214 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:07:29,834 [INFO] src.audio_generator: [7/54] ryo: あー、なるほど。消費者の立場で考えると、これって「まだ大丈夫...
+2026-03-08 14:07:32,967 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:33,582 [INFO] src.audio_generator: [8/54] keiko: そうそう。しかもアメリカの消費って、雇用の実態よりも「コンフ...
+2026-03-08 14:07:35,808 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:07:36,402 [INFO] src.audio_generator: [9/54] ryo: それ、日本のD2C経営者的にはどう読むべきですかね。直接的に...
+2026-03-08 14:07:37,981 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:38,616 [INFO] src.audio_generator: [10/54] keiko: ここが重要で、アメリカの消費減速って、半年から1年遅れで日本...
+2026-03-08 14:07:42,875 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:07:43,481 [INFO] src.audio_generator: [11/54] ryo: 具体的にはどういうことですか？...
+2026-03-08 14:07:44,717 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:45,292 [INFO] src.audio_generator: [12/54] keiko: たとえば、新規獲得のCPAを今の水準で維持できる前提で予算を...
+2026-03-08 14:07:49,537 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:07:50,137 [INFO] src.audio_generator: [13/54] ryo: なるほど、攻めから守りへのシフトを先に始めておけと。これめち...
+2026-03-08 14:07:52,114 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:52,708 [INFO] src.audio_generator: [14/54] keiko: そう、2本目。同じ3月6日にPYMNTSが報じたんですけど、...
+2026-03-08 14:07:55,919 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:07:56,553 [INFO] src.audio_generator: [15/54] ryo: それ実際やばいですよね。しかも原因が「コスト高と需要の軟化」...
+2026-03-08 14:07:58,208 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:07:58,803 [INFO] src.audio_generator: [16/54] keiko: まさにそう。背景にはまだインフレのコスト圧力が残っている一方...
+2026-03-08 14:08:01,222 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:01,833 [INFO] src.audio_generator: [17/54] ryo: 消費者目線で言うと、これって「必需品は買うけど、ちょっといい...
+2026-03-08 14:08:04,696 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:05,294 [INFO] src.audio_generator: [18/54] keiko: 鋭い。データで言うと、過去の景気後退局面では消費者の価格感度...
+2026-03-08 14:08:07,758 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:08,358 [INFO] src.audio_generator: [19/54] ryo: え、でもなんで消費裁量だけここまでひどいんですか？テックとか...
+2026-03-08 14:08:09,923 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:10,524 [INFO] src.audio_generator: [20/54] keiko: いいポイントですね。テックはAI投資で新しい収益源が生まれて...
+2026-03-08 14:08:13,520 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:14,116 [INFO] src.audio_generator: [21/54] ryo: 日本のD2C経営者的には、自分のブランドが消費者にとって「必...
+2026-03-08 14:08:17,390 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:18,066 [INFO] src.audio_generator: [22/54] keiko: それと、価格帯別のSKU戦略も重要です。高単価の商品1本勝負...
+2026-03-08 14:08:20,983 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:21,597 [INFO] src.audio_generator: [23/54] ryo: なるほどなるほど。で、今まさに「じゃあ値上げってどうすればい...
+2026-03-08 14:08:23,539 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:24,132 [INFO] src.audio_generator: [24/54] keiko: そう、3本目。Modern Retailのポッドキャストで、...
+2026-03-08 14:08:26,611 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:27,194 [INFO] src.audio_generator: [25/54] ryo: Graco、アメリカだとベビーカーとかチャイルドシートで超有...
+2026-03-08 14:08:29,146 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:29,739 [INFO] src.audio_generator: [26/54] keiko: まさに。背景を説明すると、ベビーギアって安全性に直結するから...
+2026-03-08 14:08:32,844 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:33,448 [INFO] src.audio_generator: [27/54] ryo: 消費者の立場で考えると、赤ちゃん用品って「安いのは怖い、でも...
+2026-03-08 14:08:35,683 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:36,276 [INFO] src.audio_generator: [28/54] keiko: そうなんです。で、Gracoがやったのは、いきなり一律10%...
+2026-03-08 14:08:40,208 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:40,822 [INFO] src.audio_generator: [29/54] ryo: あー、それ実際うまいですよね。日本のD2Cだと、たとえばスキ...
+2026-03-08 14:08:44,345 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:44,942 [INFO] src.audio_generator: [30/54] keiko: そうそう。しかもバンドルだとLTVにも効くんですよ。最初から...
+2026-03-08 14:08:46,732 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:47,330 [INFO] src.audio_generator: [31/54] ryo: え、でもそれって、結局は値上げを「隠してる」だけじゃないです...
+2026-03-08 14:08:49,069 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:49,665 [INFO] src.audio_generator: [32/54] keiko: いいツッコミですね。だからこそ、透明性とのバランスが大事なん...
+2026-03-08 14:08:53,561 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:08:54,169 [INFO] src.audio_generator: [33/54] ryo: なるほど。日本のD2Cだと値上げの告知って「お詫び」みたいに...
+2026-03-08 14:08:58,540 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:08:59,165 [INFO] src.audio_generator: [34/54] keiko: まさにそう。で、ここからちょっと角度が変わるんですけど、値上...
+2026-03-08 14:09:01,007 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:01,602 [INFO] src.audio_generator: [35/54] ryo: おっ、4本目ですね。...
+2026-03-08 14:09:02,748 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:03,340 [INFO] src.audio_generator: [36/54] keiko: はい。Stripeが、AI利用量に応じた従量課金のビリングツ...
+2026-03-08 14:09:05,773 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:06,373 [INFO] src.audio_generator: [37/54] ryo: え、でもこれってD2Cに関係あるんですか？SaaSとかAI企...
+2026-03-08 14:09:07,916 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:08,512 [INFO] src.audio_generator: [38/54] keiko: 表面的にはそうなんですけど、ここで注目すべきは「課金モデルの...
+2026-03-08 14:09:11,351 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:11,944 [INFO] src.audio_generator: [39/54] ryo: あー、なるほど。D2Cの文脈で言うと、たとえばAIを使ったパ...
+2026-03-08 14:09:15,446 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:16,062 [INFO] src.audio_generator: [40/54] keiko: そういうことです。もっと広く言えば、D2Cの収益モデル自体が...
+2026-03-08 14:09:20,177 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:20,757 [INFO] src.audio_generator: [41/54] ryo: 消費者心理で言うと、これって今日のテーマにめちゃくちゃつなが...
+2026-03-08 14:09:24,472 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:25,094 [INFO] src.audio_generator: [42/54] keiko: そう、まさにそこ。景気後退局面で消費者が一番嫌うのって、「使...
+2026-03-08 14:09:27,295 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:27,888 [INFO] src.audio_generator: [43/54] ryo: え、でもD2Cで従量課金って実際にどうやるんですか？物販だと...
+2026-03-08 14:09:29,566 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:30,169 [INFO] src.audio_generator: [44/54] keiko: 純粋な物販だと確かに難しい。でも今のD2Cって、物販にサービ...
+2026-03-08 14:09:34,311 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:34,920 [INFO] src.audio_generator: [45/54] ryo: あー、それ面白いですね。日本だと、たとえば食品D2CでAI栄...
+2026-03-08 14:09:38,076 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:38,700 [INFO] src.audio_generator: [46/54] keiko: しかもStripeのインフラを使えば、エンジニアを大量に抱え...
+2026-03-08 14:09:40,545 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:41,120 [INFO] src.audio_generator: [47/54] ryo: さっきの話全部つながりますね。雇用が悪化して消費が冷える、消...
+2026-03-08 14:09:45,480 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:46,122 [INFO] src.audio_generator: [48/54] keiko: まとめると、今日の全体を通して言えることは、不況は「安くしろ...
+2026-03-08 14:09:50,265 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:50,873 [INFO] src.audio_generator: [49/54] ryo: で、日本のD2C経営者が今週やるべき一つのことですけど、僕は...
+2026-03-08 14:09:55,384 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:09:55,998 [INFO] src.audio_generator: [50/54] keiko: すごくいいアクションですね。そのマッピングがあれば、景気がさ...
+2026-03-08 14:09:57,754 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:09:58,380 [INFO] src.audio_generator: [51/54] ryo: ですね。嵐が来る前に地図を作っておけと。今日はかなり実践的な...
+2026-03-08 14:10:00,006 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:10:00,660 [INFO] src.audio_generator: [52/54] keiko: はい、消費の冷え込みは怖いけど、準備した人にとってはシェアを...
+2026-03-08 14:10:02,455 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:10:03,021 [INFO] src.audio_generator: [53/54] ryo: グローバルD2Cインサイト、お相手はリョウと...
+2026-03-08 14:10:04,294 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/hV5AJXCCNGT56GPYPLiG "HTTP/1.1 200 OK"
+2026-03-08 14:10:04,884 [INFO] src.audio_generator: [54/54] keiko: ケイコでした。...
+2026-03-08 14:10:06,092 [INFO] httpx: HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/0ptCJp0xgdabdcpVtCB5 "HTTP/1.1 200 OK"
+2026-03-08 14:10:09,142 [INFO] src.audio_generator: 音声生成完了: episodes/2026-03-08.mp3 / 13.9分 / 12.7MB
+2026-03-08 14:10:09,143 [INFO] src.pipeline: ==================================================
+2026-03-08 14:10:09,143 [INFO] src.pipeline: STEP 5: 配信準備 (RSS生成)
+2026-03-08 14:10:09,144 [INFO] src.publisher: エピソード登録完了: 雇用が崩れ、決算が沈む──消費冷え込み時代にD2Cが取るべき価格戦略の全体像
+2026-03-08 14:10:09,149 [INFO] src.publisher: RSSフィード生成完了: episodes/feed.xml (2エピソード)
+2026-03-08 14:10:09,149 [INFO] src.pipeline: ==================================================
+2026-03-08 14:10:09,149 [INFO] src.pipeline: パイプライン完了: 「雇用が崩れ、決算が沈む──消費冷え込み時代にD2Cが取るべき価格戦略の全体像」
+2026-03-08 14:10:09,149 [INFO] src.pipeline:   音声: episodes/2026-03-08.mp3
+2026-03-08 14:10:09,149 [INFO] src.pipeline:   スクリプト: episodes/2026-03-08_script.json
