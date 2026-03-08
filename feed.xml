@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>グローバルD2Cインサイト</title>
+    <title>RETAILS.</title>
     <description>欧米・豪州・東南アジアのリテールニュースをD2C経営者視点で深掘り。なぜそれが起きたか、消費者心理は何か、日本への示唆は何かをケイコとリョウが毎朝お届けします。</description>
     <language>ja</language>
     <link>https://riri-slov.github.io/d2c-podcast</link>
-    <itunes:author>Global D2C Insights</itunes:author>
+    <itunes:author>RETAILS.</itunes:author>
     <itunes:summary>欧米・豪州・東南アジアのリテールニュースをD2C経営者視点で深掘り。なぜそれが起きたか、消費者心理は何か、日本への示唆は何かをケイコとリョウが毎朝お届けします。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:language>ja</itunes:language>
     <itunes:owner>
-      <itunes:name>Global D2C Insights</itunes:name>
+      <itunes:name>RETAILS.</itunes:name>
       <itunes:email>rieomoto0109@gmail.com</itunes:email>
     </itunes:owner>
-    <managingEditor>rieomoto0109@gmail.com (Global D2C Insights)</managingEditor>
+    <managingEditor>rieomoto0109@gmail.com (RETAILS.)</managingEditor>
     <itunes:category text="Business"/>
     <itunes:image href="https://riri-slov.github.io/d2c-podcast/artwork.jpg"/>
     <item>
