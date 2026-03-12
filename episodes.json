@@ -34,17 +34,5 @@
     "audio_path": "episodes/2026-03-08.mp3",
     "published_at": "2026-03-08T05:10:09.143959+00:00",
     "duration_min": 16
-  },
-  {
-    "guid": "51531535075664d26b3a707611be9a57",
-    "title": "雇用が崩れ、決算が沈む──消費冷え込み時代にD2Cが取るべき価格戦略の全体像",
-    "description": "米国で2月の雇用統計がまさかのマイナス、消費裁量セクターの決算は2020年以来最悪。消費の冷え込みが本格化するなか、Newell Brandsの値上げ術やStripeのAI従量課金から、日本のD2C経営者が今すぐ仕込むべき価格戦略を2人が徹底議論します。",
-    "date": "2026年3月8日",
-    "theme": "消費冷え込み時代の価格戦略",
-    "audio_url": "https://riri-slov.github.io/d2c-podcast/2026-03-08.mp3",
-    "audio_size": 15276869,
-    "audio_path": "episodes/2026-03-08.mp3",
-    "published_at": "2026-03-08T05:04:41.529251+00:00",
-    "duration_min": 16
   }
 ]
