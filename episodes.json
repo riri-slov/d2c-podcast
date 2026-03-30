@@ -1,5 +1,17 @@
 [
   {
+    "guid": "415826034f8a13c91c88b134ec2cf1b8",
+    "title": "AIに飲み込まれる前に——D2Cが今週動くべき理由",
+    "description": "Goldman Sachsが中小企業に警告、Anthropicのサブスクが急増、AppleでさえAI戦略を転換——2026年3月、AIの波はもう「来る」ではなく「来ている」。さらに豪州から届いた燃料費高騰のニュースが、日本のD2C物流に直撃する。今週動かないブランドが6ヶ月後に直面するリスクを、データと現場感覚で徹底解剖。\n\n【参照記事】\n・PYMNTS: Former UK PM, Now Goldman Adviser, Says Small Businesses Can’t Ignore AI\n  https://www.pymnts.com/smbs/2026/former-uk-pm-now-goldman-adviser-says-small-businesses-cant-ignore-ai/\n・PYMNTS: Anthropic’s Claude Sees Surge in Subscriptions\n  https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-claude-draws-in-record-number-of-consumers/\n・PYMNTS: Apple Centering AI Plans on App Store and Hardware\n  https://www.pymnts.com/apple/2026/apple-centering-ai-plans-on-app-store-and-hardware/\n・RetailBiz: Retail jobs at risk as fuel costs surge, ARC warns\n  https://www.retailbiz.com.au/latest-news/retail-jobs-at-risk-as-fuel-costs-surge-arc-warns/",
+    "date": "2026年3月30日",
+    "theme": "AI時代に生き残るD2C戦略",
+    "audio_url": "https://riri-slov.github.io/d2c-podcast/2026-03-30.mp3",
+    "audio_size": 10388780,
+    "audio_path": "episodes/2026-03-30.mp3",
+    "published_at": "2026-03-30T01:18:37.352775+00:00",
+    "duration_min": 15
+  },
+  {
     "guid": "01dd747a528258cd358a24ea26e2a400",
     "title": "AIが顧客を奪う日：自社サイトに来なくなった消費者に、どう売るか",
     "description": "消費者の3人に1人がAI経由で直接購買する意向を持つ時代に、D2Cブランドはどう戦うか。メイシーズのAIチャットボットで顧客支出が4倍になった事例、商品データの構造化という新たな競争優位、そして体験格差が広がるほどブランドが離脱される逆説的警告まで。AI時代の顧客接点を制するための具体的な視点をお届けします。\n\n【参照記事】\n・Retail Gazette (UK): A third of consumers would buy directly via generative AI platforms, study finds\n  https://www.retailgazette.co.uk/blog/2026/03/kantar-ai-data/\n・PYMNTS: Macy’s AI Chatbot Quadruples Customer Spending\n  https://www.pymnts.com/news/retail/2026/macys-ai-chatbot-quadruples-customer-spending/\n・Ecommerce News EU: ChannelEngine launches tool for retailer visibility in AI tools\n  https://ecommercenews.eu/channelengine-launches-tool-for-retailer-visibility-in-ai-tools/\n・RetailBiz: SAP: Consumers abandon brands as experience gap widens\n  https://www.retailbiz.com.au/topics/trends-research/sap-consumers-abandon-brands-as-experience-gap-widens/",

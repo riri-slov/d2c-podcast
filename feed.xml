@@ -17,6 +17,36 @@
     <itunes:category text="Business"/>
     <itunes:image href="https://riri-slov.github.io/d2c-podcast/artwork.jpg"/>
     <item>
+      <title>AIに飲み込まれる前に——D2Cが今週動くべき理由</title>
+      <description>Goldman Sachsが中小企業に警告、Anthropicのサブスクが急増、AppleでさえAI戦略を転換——2026年3月、AIの波はもう「来る」ではなく「来ている」。さらに豪州から届いた燃料費高騰のニュースが、日本のD2C物流に直撃する。今週動かないブランドが6ヶ月後に直面するリスクを、データと現場感覚で徹底解剖。
+
+【参照記事】
+・PYMNTS: Former UK PM, Now Goldman Adviser, Says Small Businesses Can’t Ignore AI
+  https://www.pymnts.com/smbs/2026/former-uk-pm-now-goldman-adviser-says-small-businesses-cant-ignore-ai/
+・PYMNTS: Anthropic’s Claude Sees Surge in Subscriptions
+  https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-claude-draws-in-record-number-of-consumers/
+・PYMNTS: Apple Centering AI Plans on App Store and Hardware
+  https://www.pymnts.com/apple/2026/apple-centering-ai-plans-on-app-store-and-hardware/
+・RetailBiz: Retail jobs at risk as fuel costs surge, ARC warns
+  https://www.retailbiz.com.au/latest-news/retail-jobs-at-risk-as-fuel-costs-surge-arc-warns/</description>
+      <guid isPermaLink="false">415826034f8a13c91c88b134ec2cf1b8</guid>
+      <pubDate>Mon, 30 Mar 2026 01:18:37 +0000</pubDate>
+      <enclosure url="https://riri-slov.github.io/d2c-podcast/2026-03-30.mp3" length="10388780" type="audio/mpeg"/>
+      <itunes:duration>900</itunes:duration>
+      <itunes:summary>Goldman Sachsが中小企業に警告、Anthropicのサブスクが急増、AppleでさえAI戦略を転換——2026年3月、AIの波はもう「来る」ではなく「来ている」。さらに豪州から届いた燃料費高騰のニュースが、日本のD2C物流に直撃する。今週動かないブランドが6ヶ月後に直面するリスクを、データと現場感覚で徹底解剖。
+
+【参照記事】
+・PYMNTS: Former UK PM, Now Goldman Adviser, Says Small Businesses Can’t Ignore AI
+  https://www.pymnts.com/smbs/2026/former-uk-pm-now-goldman-adviser-says-small-businesses-cant-ignore-ai/
+・PYMNTS: Anthropic’s Claude Sees Surge in Subscriptions
+  https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-claude-draws-in-record-number-of-consumers/
+・PYMNTS: Apple Centering AI Plans on App Store and Hardware
+  https://www.pymnts.com/apple/2026/apple-centering-ai-plans-on-app-store-and-hardware/
+・RetailBiz: Retail jobs at risk as fuel costs surge, ARC warns
+  https://www.retailbiz.com.au/latest-news/retail-jobs-at-risk-as-fuel-costs-surge-arc-warns/</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AIが顧客を奪う日：自社サイトに来なくなった消費者に、どう売るか</title>
       <description>消費者の3人に1人がAI経由で直接購買する意向を持つ時代に、D2Cブランドはどう戦うか。メイシーズのAIチャットボットで顧客支出が4倍になった事例、商品データの構造化という新たな競争優位、そして体験格差が広がるほどブランドが離脱される逆説的警告まで。AI時代の顧客接点を制するための具体的な視点をお届けします。
 
