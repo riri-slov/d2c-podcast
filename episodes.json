@@ -1,5 +1,17 @@
 [
   {
+    "guid": "7d88aee5d51cc1ac045de1e4ba4f721e",
+    "title": "節約する消費者、AIに任せる買い物、イーコマースを捨てた店——2026年春、D2Cの常識が一気に崩れた",
+    "description": "オーストラリアの過半数がAI購買に前向き、米国消費者はクレジット支出を絞り始め、英国のリテーラーはイーコマースを丸ごと廃止。そしてShopifyはD2Cと卸売を一つのプラットフォームに統合した。バラバラに見える4つのニュースが実は同じ一つの問いを指している——「あなたのブランドは誰の、何のために存在するのか」。日本のD2C経営者が今週動くべき一つのアクションまで、データと現場感覚で解剖します。\n\n【参照記事】\n・RetailBiz: Shopify rolls out native B2B tools across all plans\n  https://www.retailbiz.com.au/latest-news/shopify-rolls-out-native-b2b-tools-across-all-plans/\n・RetailBiz: Stripe: Majority of Aussies are open to AI-assisted shopping\n  https://www.retailbiz.com.au/topics/trends-research/stripe-majority-of-aussies-are-open-to-ai-assisted-shopping/\n・PYMNTS: Fed Data Signals Consumers Pulling Back on Credit Card Spending\n  https://www.pymnts.com/consumer-finance/2026/fed-data-signals-consumers-pulling-back-on-credit-card-spending/\n・Retail Gazette (UK): The Works CEO: How the brand is betting big on bricks-and-mortar\n  https://www.retailgazette.co.uk/blog/2026/04/the-works-bricks-mortar/",
+    "date": "2026年4月8日",
+    "theme": "AIと節約志向が変えるD2C戦略",
+    "audio_url": "https://riri-slov.github.io/d2c-podcast/2026-04-08.mp3",
+    "audio_size": 10253612,
+    "audio_path": "episodes/2026-04-08.mp3",
+    "published_at": "2026-04-08T01:18:33.619133+00:00",
+    "duration_min": 15
+  },
+  {
     "guid": "ae257f3f453f736aa3df045111c74526",
     "title": "AIが「買う」時代へ——チェックアウトの終わりと、次の購買体験の始まり",
     "description": "ワンクリック決済の雄・Boltが人員を3分の1削減。AmazonのAlexa+は会話でフードを注文し、アントグループのAIはクリプト取引を自律実行する。「購買体験」が根本から書き換えられるこの瞬間、日本のD2C経営者は何を見るべきか。4つのニュースから浮かび上がる、チェックアウトの終わりと新しい購買体験の輪郭。\n\n【参照記事】\n・PYMNTS: Bolt Cuts Third of Staff Amid New AI Focus\n  https://www.pymnts.com/digital-payments/2026/bolt-cuts-third-of-staff-amid-new-ai-focus/\n・PYMNTS: Amazon’s Alexa+ Adds Conversational Uber Eats and Grubhub Ordering\n  https://www.pymnts.com/amazon/2026/amazons-alexa-adds-conversational-uber-eats-and-grubhub-ordering/\n・PYMNTS: Ant Group Platform Lets AI Agents Make Crypto Transactions\n  https://www.pymnts.com/artificial-intelligence-2/2026/ant-group-platform-lets-ai-agents-make-crypto-transactions/\n・PYMNTS: Anthropic Says Claude Code Users Will Need to Pay More for OpenClaw\n  https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-says-claude-code-users-will-need-to-pay-more-for-openclaw/",

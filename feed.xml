@@ -17,6 +17,36 @@
     <itunes:category text="Business"/>
     <itunes:image href="https://riri-slov.github.io/d2c-podcast/artwork.jpg"/>
     <item>
+      <title>節約する消費者、AIに任せる買い物、イーコマースを捨てた店——2026年春、D2Cの常識が一気に崩れた</title>
+      <description>オーストラリアの過半数がAI購買に前向き、米国消費者はクレジット支出を絞り始め、英国のリテーラーはイーコマースを丸ごと廃止。そしてShopifyはD2Cと卸売を一つのプラットフォームに統合した。バラバラに見える4つのニュースが実は同じ一つの問いを指している——「あなたのブランドは誰の、何のために存在するのか」。日本のD2C経営者が今週動くべき一つのアクションまで、データと現場感覚で解剖します。
+
+【参照記事】
+・RetailBiz: Shopify rolls out native B2B tools across all plans
+  https://www.retailbiz.com.au/latest-news/shopify-rolls-out-native-b2b-tools-across-all-plans/
+・RetailBiz: Stripe: Majority of Aussies are open to AI-assisted shopping
+  https://www.retailbiz.com.au/topics/trends-research/stripe-majority-of-aussies-are-open-to-ai-assisted-shopping/
+・PYMNTS: Fed Data Signals Consumers Pulling Back on Credit Card Spending
+  https://www.pymnts.com/consumer-finance/2026/fed-data-signals-consumers-pulling-back-on-credit-card-spending/
+・Retail Gazette (UK): The Works CEO: How the brand is betting big on bricks-and-mortar
+  https://www.retailgazette.co.uk/blog/2026/04/the-works-bricks-mortar/</description>
+      <guid isPermaLink="false">7d88aee5d51cc1ac045de1e4ba4f721e</guid>
+      <pubDate>Wed, 08 Apr 2026 01:18:33 +0000</pubDate>
+      <enclosure url="https://riri-slov.github.io/d2c-podcast/2026-04-08.mp3" length="10253612" type="audio/mpeg"/>
+      <itunes:duration>900</itunes:duration>
+      <itunes:summary>オーストラリアの過半数がAI購買に前向き、米国消費者はクレジット支出を絞り始め、英国のリテーラーはイーコマースを丸ごと廃止。そしてShopifyはD2Cと卸売を一つのプラットフォームに統合した。バラバラに見える4つのニュースが実は同じ一つの問いを指している——「あなたのブランドは誰の、何のために存在するのか」。日本のD2C経営者が今週動くべき一つのアクションまで、データと現場感覚で解剖します。
+
+【参照記事】
+・RetailBiz: Shopify rolls out native B2B tools across all plans
+  https://www.retailbiz.com.au/latest-news/shopify-rolls-out-native-b2b-tools-across-all-plans/
+・RetailBiz: Stripe: Majority of Aussies are open to AI-assisted shopping
+  https://www.retailbiz.com.au/topics/trends-research/stripe-majority-of-aussies-are-open-to-ai-assisted-shopping/
+・PYMNTS: Fed Data Signals Consumers Pulling Back on Credit Card Spending
+  https://www.pymnts.com/consumer-finance/2026/fed-data-signals-consumers-pulling-back-on-credit-card-spending/
+・Retail Gazette (UK): The Works CEO: How the brand is betting big on bricks-and-mortar
+  https://www.retailgazette.co.uk/blog/2026/04/the-works-bricks-mortar/</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AIが「買う」時代へ——チェックアウトの終わりと、次の購買体験の始まり</title>
       <description>ワンクリック決済の雄・Boltが人員を3分の1削減。AmazonのAlexa+は会話でフードを注文し、アントグループのAIはクリプト取引を自律実行する。「購買体験」が根本から書き換えられるこの瞬間、日本のD2C経営者は何を見るべきか。4つのニュースから浮かび上がる、チェックアウトの終わりと新しい購買体験の輪郭。
 
